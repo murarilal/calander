@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: calander
+  pool: 5
+  username: postgres
+  password: postgres
