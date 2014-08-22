@@ -40,3 +40,4 @@ gem "watu_table_builder", :require => "table_builder"
 gem 'debugger'
 gem "omniauth-google-oauth2", "~> 0.2.1"
 gem 'will_paginate', '~> 3.0'
+gem 'rails_12factor' 
